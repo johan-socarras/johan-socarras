@@ -1,6 +1,6 @@
 # Hi, I'm Johan 👋
 
-![CCNA](https://img.shields.io/badge/-CCNA_certified-1BA0D7?style=flat-square)
+[![CCNA](https://img.shields.io/badge/-CCNA_certified-1BA0D7?style=flat-square)](https://www.credly.com/badges/165a0ae7-9fd0-445f-ae38-e25a9a13d34d/public_url)
 ![Cisco IOS](https://img.shields.io/badge/-Cisco_IOS-005073?style=flat-square)
 ![EVE-NG](https://img.shields.io/badge/-EVE--NG-2E3B4E?style=flat-square)
 ![Proxmox VE](https://img.shields.io/badge/-Proxmox_VE-E57000?style=flat-square)
