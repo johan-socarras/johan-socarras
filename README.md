@@ -17,7 +17,6 @@ virtualization on Proxmox and VMware, and PowerShell to automate the repetitive 
 - **[Proxmox-Homelab](https://github.com/johan-socarras/Proxmox-Homelab)** – Proxmox VE home lab: filtered DNS over TLS, Tailscale, Prometheus/Grafana monitoring with ntfy alerts, NetBox, nightly backups, and OPNsense, Active Directory and Whonix labs. Configs and troubleshooting write-ups included.
 - **[EVE-NG-Networking-Labs](https://github.com/johan-socarras/EVE-NG-Networking-Labs)** – Cisco networking labs in EVE-NG: multi-site and three-tier campus designs, ASA NAT and ACLs, and troubleshooting scenarios, each with its topology, configs and verification steps.
 - **[Notelint](https://github.com/johan-socarras/Notelint)** – A linter for project notes: finds broken links, dead evidence, stale facts and unclaimed files in a markdown knowledge base.
-- **[Mirryl](https://github.com/johan-socarras/Mirryl)** – Persistent wireless ADB desktop companion (showcase repository).
 
 ## Contact
 - 💼 LinkedIn: [Johan S.](https://linkedin.com/in/johan-s-254727317)
