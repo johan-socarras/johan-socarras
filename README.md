@@ -30,4 +30,4 @@ Tools I designed and tested for my own use. The code was written with Claude, an
 - **[Notelint](https://github.com/johan-socarras/Notelint)** – A linter for project notes: finds broken links, dead evidence, stale facts and unclaimed files in a markdown knowledge base.
 
 ## Contact
-- 💼 LinkedIn: [Johan S.](https://linkedin.com/in/johan-s-254727317)
+- 💼 LinkedIn: [Johan S.](https://linkedin.com/in/johan-socarras)
